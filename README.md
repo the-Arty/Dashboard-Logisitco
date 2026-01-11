@@ -1,5 +1,7 @@
 # 📊 Dashboard de Logística – Power BI
 
+Criado por Artur Costa
+
 Este projeto apresenta um **dashboard de logística** desenvolvido em **Power BI**, com foco na análise da **performance operacional** e apoio à **tomada de decisão baseada em dados**.
 
 O objetivo do painel é centralizar os principais indicadores da operação logística em uma única visão, facilitando a identificação de gargalos, padrões e oportunidades de melhoria.
